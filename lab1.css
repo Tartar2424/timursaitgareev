@@ -1,0 +1,11 @@
+ h1 {text-align:center}
+
+ h2 {text-align:center}
+
+div  h2 { backdrop-filter:blur (10px) ;}
+
+ .kkk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    width: 600;
+}
